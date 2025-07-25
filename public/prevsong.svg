@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="black">
+
+    <!-- Left vertical bar -->
+    <rect x="2" y="4" width="2" height="16" />
+
+    <!-- First left-pointing triangle -->
+    <polygon points="10,12 18,18 18,6" />
+
+    <!-- Second left-pointing triangle -->
+    <polygon points="4,12 12,18 12,6" />
+
+</svg>

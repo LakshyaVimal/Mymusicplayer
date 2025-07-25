@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="200" height="60" fill="none">
+  <!-- Black Circle -->
+  <circle cx="50" cy="50" r="45" fill="white"/>
+
+  <!-- Bold Symmetrical White Sound Waves -->
+  <path d="M35 40c8-4 28-3 35 1" stroke="black" stroke-width="6" stroke-linecap="round"/>
+  <path d="M38 55c10-3 25-1 30 2" stroke="black" stroke-width="6" stroke-linecap="round"/>
+  <path d="M41 70c7-2 20 0 24 3" stroke="black" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Bold Spotify Text -->
+  <text x="110" y="70" font-family="Arial, sans-serif" font-size="55" font-weight="bold" fill="white">Spotify</text>
+</svg>
